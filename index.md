@@ -1,7 +1,7 @@
 ---
 
-# Hi, I'm <Your Name>
-Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflections.
+# Hi, I'm Aiham
+This is my portfolio, I use this site to show my work and badmouth github
 
 ## Highlights
 - 🔧 Project 1: Github Pages
