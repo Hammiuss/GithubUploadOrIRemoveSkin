@@ -1,5 +1,3 @@
----
-
 # Hi, I'm Aiham
 This is my portfolio, I use this site to show my work and badmouth github
 
