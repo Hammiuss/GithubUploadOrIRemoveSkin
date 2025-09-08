@@ -8,4 +8,4 @@
 - What I’m proud of: Making github do the work anyways
 - Next steps: not have to go through this next time
 
-**[back?](/index.md)**
+
